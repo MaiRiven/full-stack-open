@@ -1,2 +1,2 @@
 # full-stack-open
-course exercise submissions
+A repo for Helsinki University full-stack open course submissions
